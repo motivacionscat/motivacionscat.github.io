@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Hola!](README.md)
+* [Hola Paco!](README.md)
+  * [Page 1](readme/page-1.md)
 
 ## Getting Started
 
